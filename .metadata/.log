@@ -395,3 +395,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY com.github.spotbugs.plugin.eclipse 1 0 2021-08-25 23:12:46.387
 !MESSAGE creating new bug collection: C:\Users\Michael\Desktop\tOSU\Software Backend Stuff\workspace\.metadata\.plugins\com.github.spotbugs.plugin.eclipse\GithubTestProject.fbwarnings.xml
+
+!ENTRY com.github.spotbugs.plugin.eclipse 1 0 2021-08-25 23:17:05.601
+!MESSAGE creating new bug collection: C:\Users\Michael\Desktop\tOSU\Software Backend Stuff\workspace\.metadata\.plugins\com.github.spotbugs.plugin.eclipse\GitTest.fbwarnings.xml
