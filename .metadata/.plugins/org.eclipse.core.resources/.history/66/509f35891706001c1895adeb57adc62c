@@ -1,6 +1,6 @@
 import static org.junit.Assert.assertEquals;
 
-//github test
+
 import org.junit.Test;
 
 import components.sequence.Sequence;
