@@ -1,5 +1,5 @@
 import static org.junit.Assert.assertEquals;
-//test
+
 import org.junit.Test;
 
 import components.sequence.Sequence;
